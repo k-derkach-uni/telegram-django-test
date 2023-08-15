@@ -31,7 +31,7 @@ python manage.py createsuperuser
 
 ## Демонстрация
 <div align="center"><img src="https://github.com/k-derkach-uni/telegram-django-test/assets/122341934/617608ce-0f89-44dc-bc1f-77a1ebcb648f"/><br />Возможности администратора<br/><br/></div>
-<div align="center"><img width="750" src="https://github.com/k-derkach-uni/telegram-django-test/assets/122341934/f77de9ec-9814-465c-9164-5e69fb9e308f"/><br />Форма просмотра оплат<br/><br/></div>
+<div align="center"><img width="750" src="https://github.com/k-derkach-uni/telegram-django-test/assets/122341934/f77de9ec-9814-465c-9164-5e69fb9e308f"/><br />Форма просмотра заказа<br/><br/></div>
 <div align="center"><img width="750" src="https://github.com/k-derkach-uni/telegram-django-test/assets/122341934/64f2e38c-9c18-491e-bfcc-81ff25546802"/><br />Возможность рассылки из админ-панели<br/><br/></div>
 <div align="center"><img height="600" src="https://github.com/k-derkach-uni/telegram-django-test/assets/122341934/6415464e-fc4f-4fd2-a64f-a1b2f59883c5"/><img height="600" src="https://github.com/k-derkach-uni/telegram-django-test/assets/122341934/d2f045e1-d9c7-4dac-bc84-9844158f67e3"/><br/><img height="600" src="https://github.com/k-derkach-uni/telegram-django-test/assets/122341934/ec81230e-8bd2-4baa-bc40-a393e526f5f0"/><img height="600" src="https://github.com/k-derkach-uni/telegram-django-test/assets/122341934/5c6b0e0c-9796-4997-9057-2eaaf7d9141a"/><br />Скриншоты работы бота<br/><br/></div>
 
