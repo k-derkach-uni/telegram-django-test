@@ -1,0 +1,7 @@
+**/__pycache__/
+**/migrations/
+
+env
+orders.xlsx
+db.sqlite3
+uploads
